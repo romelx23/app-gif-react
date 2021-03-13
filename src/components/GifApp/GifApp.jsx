@@ -22,7 +22,7 @@ const Gifapp=()=>{
                    key={category}
                    category={category}/>
                    ))
-            }
+                }
             </ol>
         </>
     );
